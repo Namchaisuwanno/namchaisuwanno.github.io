@@ -1,0 +1,53 @@
+h1,h2,h3{
+  font-family: 'Roboto Slab', serif;
+}
+
+
+
+.map iframe{
+  width: 100%;
+  height: 400px;
+}
+
+.item {
+  width: 100%;
+  height: 100%;
+}
+.location-menu{
+  text-align: center;
+}
+.Ability-menu .dropdown{
+  display: inline-block;
+}
+.carousel .item img{
+  width: 640px;
+  height: 360px;
+}
+
+.thumbnail .caption{
+  align-items: canter;
+}
+
+.jumbotron{
+  background: url('../images/nam.jpg');
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  padding-top:  200px;
+  padding-bottom: 200px;
+
+}
+
+.carousel .item img{
+  width: 500px;
+  height: 700px;
+}
+
+.chef img{
+width: 300px;
+}
+
+.class .btn-primary .button{
+  margin-left: auto;
+}

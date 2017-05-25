@@ -1,0 +1,49 @@
+h1,h2,h3{
+  font-family: 'Roboto Slab', serif;
+}
+
+h2{
+border-top: 200px;
+}
+
+.text-center{
+float: left;
+}
+
+.map iframe{
+  width: 100%;
+  height: 400px;
+}
+
+.item {
+  width: 100%;
+  height: 100%;
+}
+.location-menu{
+  text-align: center;
+}
+.Ability-menu .dropdown{
+  display: inline-block;
+}
+.carousel .item img{
+  width: 100%;
+}
+
+.thumbnail .caption{
+  align-items: canter;
+}
+
+
+.carousel .item img{
+  width: 500px;
+  height: 700px;
+}
+
+.chef img{
+width: 300px;
+margin-top: 60px;
+}
+
+.class .btn-primary .button{
+  margin-left: auto;
+}
